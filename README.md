@@ -4,7 +4,7 @@ This repository contains selected homework and projects I completed during the B
 
 ## Folders
 
-### refresh_python/
+### Python section/
 Contains homework from the Python refresher module. Topics include:
 - Bash scripting and using APIs.
 - Regular expressions and text parsing.
@@ -19,7 +19,7 @@ Contains homework from the Python refresher module. Topics include:
 
 ---
 
-### ml/
+### ML section/
 Contains machine learning homework where I built and trained simple ML models.
 
 **Files:**
